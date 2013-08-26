@@ -1,0 +1,29 @@
+body {
+	font-family:Helvetica, Verdana;
+	color: #46372d;
+	background-color: #f5f4f0;
+}
+div#container {
+	width:960px;
+	margin: 0 auto 0 auto
+}
+div#content {
+	width:735px;
+	margin-right: 5px;
+	float:left;
+}
+div#sidebar {
+	width:220px;
+	margin-top:47px;
+	float:right;
+}
+h1 { 
+	font-family: Georgia, 'Times New Roman', serif;
+	font-size: 84px;
+}
+a {
+	text-decoration: none;
+}
+a {
+	color: #46372d
+}
