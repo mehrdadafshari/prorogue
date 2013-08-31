@@ -25,5 +25,8 @@ a {
 	text-decoration: none;
 }
 a {
-	color: #46372d
+	color: #50502d;
+}
+a:hover {
+	text-decoration: underline;
 }
